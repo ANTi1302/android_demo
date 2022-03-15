@@ -49,11 +49,11 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="TextView" />
+                android:text="Dellvery in" />
         </LinearLayout>
 
         <TextView
-            android:id="@+id/textView6"
+            android:id="@+id/giaTien"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="TextView"
@@ -66,7 +66,7 @@
             android:id="@+id/textView7"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="TextView"
+            android:text="Restaurants info"
             android:textColor="@color/black"
             android:textStyle="bold"/>
 
@@ -74,7 +74,7 @@
             android:id="@+id/textView8"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="TextView" />
+            android:text="Order a large Pizza but the size is the equivalent of a medium/small from other places at the same price range" />
 
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"

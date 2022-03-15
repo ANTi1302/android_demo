@@ -17,11 +17,13 @@ public class MainActivity2 extends AppCompatActivity {
         TextView textView=findViewById(R.id.tenSP);
         TextView textView1=findViewById(R.id.moTa);
         TextView textView2=findViewById(R.id.tenSP);
+        TextView textView3=findViewById(R.id.giaTien);
         ImageView img=findViewById(R.id.hinhAnh);
         Intent i=getIntent();
         String duLieuTenSp=i.getStringExtra("duLieuTenSp");
         String dulieumoTa=i.getStringExtra("duLieuMota");
         String dulieuImg=i.getStringExtra("duLieuHinhAnh");
+        String dulieuGia=i.getStringExtra("duLieuGiaSp");
         switch (dulieuImg){
             case "1":
                 img.setImageResource(R.drawable.donut);
@@ -61,7 +63,7 @@ public class MainActivity2 extends AppCompatActivity {
 
         textView.setText(duLieuTenSp);
         textView1.setText(dulieumoTa);
-
+        textView3.setText(dulieuGia);
 
     }
 

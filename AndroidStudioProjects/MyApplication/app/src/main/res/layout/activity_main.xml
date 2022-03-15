@@ -45,6 +45,7 @@
             app:boxStrokeColor="@color/white"
             app:errorEnabled="true"
             android:hint="Search food"
+            android:id="@+id/btnTimKiem"
             android:layout_margin="10dp"
             android:theme="@style/TextInputLayoutStyle"
             >
@@ -52,7 +53,7 @@
             <com.google.android.material.textfield.TextInputEditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-
+                android:id="@+id/timKiem"
                 android:inputType="text"
                 android:textColorHint="@color/white"
                 android:maxLines="1"

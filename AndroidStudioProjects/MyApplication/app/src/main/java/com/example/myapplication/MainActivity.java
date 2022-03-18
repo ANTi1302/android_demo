@@ -5,6 +5,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Filter;
+import android.widget.Filterable;
 import android.widget.ImageView;
 import android.widget.ListView;
 
@@ -15,6 +17,7 @@ import com.google.android.material.textfield.TextInputLayout;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Locale;
 
 import static com.example.myapplication.R.id.itemLayout;
 
@@ -49,24 +52,32 @@ public class MainActivity extends AppCompatActivity {
     textInputLayout.setOnClickListener(new View.OnClickListener() {
         @Override
         public void onClick(View view) {
-            int count=0;
-            for (Donut donut : donutList) {
-                String temp = textInputEditText.getText().toString();
-                if (donut.getTenDonut().toString().contains(temp)) {
-                    donutListSearch.add(donut);
+            donutListSearch.clear();
 
+                for (Donut donut : donutList) {
+                    String temp = textInputEditText.getText().toString().toLowerCase().trim();
+
+                    if (donut.getTenDonut().toString().toLowerCase().trim().contains(temp)) {
+
+                        donutListSearch.add(donut);
+                    }
+
+                  
                 }
 
+                listView.setAdapter(new Adopet(MainActivity.this, R.layout.item_layout, donutListSearch));
             }
-            listView.setAdapter(new Adopet(MainActivity.this, R.layout.item_layout, donutListSearch));
 
 
 
+//
 
-        }
+
+
     });
 
 }
+
 
 
 }

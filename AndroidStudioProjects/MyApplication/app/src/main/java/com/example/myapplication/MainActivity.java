@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Button;
 import android.widget.Filter;
 import android.widget.Filterable;
 import android.widget.ImageView;
@@ -25,12 +26,14 @@ public class MainActivity extends AppCompatActivity {
 
     private List<Donut> donutList;
     private List<Donut> donutListSearch;
+    private List<Donut> donutListSearchBt;
     private ListView listView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         donutListSearch= new ArrayList<>();
+        donutListSearchBt=new ArrayList<>();
         listView= (ListView) findViewById(R.id.listView);
         listView.setDivider(null);
         donutList= new ArrayList<>();
@@ -46,7 +49,11 @@ public class MainActivity extends AppCompatActivity {
 
         TextInputEditText textInputEditText= findViewById(R.id.timKiem);
         TextInputLayout textInputLayout= findViewById(R.id.btnTimKiem);
-
+        Button button=findViewById(R.id.button2);
+        button.setText("Donut A");
+        Button button1=findViewById(R.id.button1);
+        button1.setText("Donut");
+        Button button3=findViewById(R.id.button3);
 
 
     textInputLayout.setOnClickListener(new View.OnClickListener() {
@@ -75,6 +82,47 @@ public class MainActivity extends AppCompatActivity {
 
 
     });
+
+    button.setOnClickListener(new View.OnClickListener() {
+        @Override
+        public void onClick(View view) {
+
+            donutListSearchBt.clear();
+            for (Donut donut : donutList) {
+
+            String btn=button.getText().toString().toLowerCase().trim();
+                if (donut.getTenDonut().toString().toLowerCase().trim().contains(btn)) {
+
+                    donutListSearchBt.add(donut);
+                }
+
+
+            }
+
+            listView.setAdapter(new Adopet(MainActivity.this, R.layout.item_layout, donutListSearchBt));
+
+        }
+    });
+        button1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+donutListSearchBt.clear();
+                for (Donut donut : donutList) {
+
+                    String btn=button1.getText().toString().toLowerCase().trim();
+                    if (donut.getTenDonut().toString().toLowerCase().trim().contains(btn)) {
+
+                        donutListSearchBt.add(donut);
+                    }
+
+
+                }
+
+                listView.setAdapter(new Adopet(MainActivity.this, R.layout.item_layout, donutListSearchBt));
+
+            }
+        });
 
 }
 

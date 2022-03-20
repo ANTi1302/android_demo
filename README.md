@@ -10,3 +10,5 @@
 <img src="./img/BT3_5.png" width="500">
 <h1>When click button Donut A  </h1>
 <img src="./img/BT3_6.png" width="500">
+<h1>Ôn tập GK (ở trong file Profile 🤟) </h1>
+<img src="./img/OnTapGK.png" width="500">

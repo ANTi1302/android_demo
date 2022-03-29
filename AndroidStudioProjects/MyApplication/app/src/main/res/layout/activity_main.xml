@@ -47,6 +47,7 @@
             android:hint="Search food"
             android:id="@+id/btnTimKiem"
             android:layout_margin="10dp"
+            app:counterEnabled="true"
             android:theme="@style/TextInputLayoutStyle"
             >
 

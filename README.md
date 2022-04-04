@@ -1,3 +1,9 @@
+# android_demo baitap tuan 7,8,9
+<img src="./img/BT5_1.png" width="500">
+<h1> After delete </h1>
+<img src="./img/BT5_2.png" width="500">
+<h1> After add </h1>
+<img src="./img/BT5_3.png" width="500">
 # android_demo baitap tuan 1,2,3
 <img src="./img/BT1.png" width="500">
 <img src="./img/BT2.png" width="500">

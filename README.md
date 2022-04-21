@@ -1,4 +1,12 @@
 # android_demo baitap tuan 7,8,9
+<h1>Login</h1>
+<img src="./img/BT6_1.png" width="500">
+<img src="./img/BT6_2.png" width="500">
+<h1>Register</h1>
+<img src="./img/BT6_3.png" width="500">
+<img src="./img/BT6_4.png" width="1000">
+<img src="./img/BT6_5.png" width="1000">
+
 <img src="./img/BT5_1.png" width="500">
 <h1> After delete </h1>
 <img src="./img/BT5_2.png" width="500">

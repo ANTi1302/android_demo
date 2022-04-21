@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">863751476453-d8q1snt5iai43gc8kbdcs8c5tj8mf05b.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">863751476453</string>
+    <string name="google_api_key" translatable="false">AIzaSyCrFaw78AuJmkv6Ev4wbn4RdeK5-lWi0HY</string>
+    <string name="google_app_id" translatable="false">1:863751476453:android:8821d7dada9b5b07c3700c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCrFaw78AuJmkv6Ev4wbn4RdeK5-lWi0HY</string>
+    <string name="google_storage_bucket" translatable="false">protean-smile-341205.appspot.com</string>
+    <string name="project_id" translatable="false">protean-smile-341205</string>
+</resources>

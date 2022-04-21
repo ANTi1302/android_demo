@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "863751476453",
+    "project_id": "protean-smile-341205",
+    "storage_bucket": "protean-smile-341205.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863751476453:android:8821d7dada9b5b07c3700c",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863751476453-d8q1snt5iai43gc8kbdcs8c5tj8mf05b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrFaw78AuJmkv6Ev4wbn4RdeK5-lWi0HY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863751476453-d8q1snt5iai43gc8kbdcs8c5tj8mf05b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

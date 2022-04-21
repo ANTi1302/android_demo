@@ -1,0 +1,15 @@
+com/example/myapplication/RegisterActivity.java
+ com.example.myapplication.RegisterActivity
+ com.example.myapplication.RegisterActivity$1
+ com.example.myapplication.RegisterActivity$1$1
+com/example/myapplication/entity/User.java
+ com.example.myapplication.entity.User
+com/example/myapplication/BuildConfig.java
+ com.example.myapplication.BuildConfig
+com/example/myapplication/MainActivity.java
+ com.example.myapplication.MainActivity
+com/example/myapplication/LoginActivity.java
+ com.example.myapplication.LoginActivity
+ com.example.myapplication.LoginActivity$1
+com/example/myapplication/FinishActivity.java
+ com.example.myapplication.FinishActivity

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\ANTi_study\\Android\\LoginRegister\\MyApplication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-small-v4\\values-small-v4.xml",
+            "outputFile": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-small-v4\\values-small-v4.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ANTi\\.gradle\\caches\\transforms-2\\files-2.1\\eadc6d846fca3c017e472313c0d48192\\material-1.1.0\\res\\values-small-v4\\values-small-v4.xml",

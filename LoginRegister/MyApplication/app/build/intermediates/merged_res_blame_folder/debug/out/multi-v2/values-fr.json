@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\ANTi_study\\Android\\LoginRegister\\MyApplication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr\\values-fr.xml",
+            "outputFile": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr\\values-fr.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ANTi\\.gradle\\caches\\transforms-2\\files-2.1\\777122b98f89f179562e9e07cb8c342e\\jetified-play-services-basement-18.0.0\\res\\values-fr\\values.xml",

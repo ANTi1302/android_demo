@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\ANTi_study\\Android\\LoginRegister\\MyApplication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn\\values-bn.xml",
+            "outputFile": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn\\values-bn.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ANTi\\.gradle\\caches\\transforms-2\\files-2.1\\619c542accbda7010a7445064c2ab8b3\\core-1.2.0\\res\\values-bn\\values-bn.xml",

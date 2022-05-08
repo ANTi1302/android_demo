@@ -4,18 +4,7 @@
             "outputFile": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ANTi\\.gradle\\caches\\transforms-2\\files-2.1\\1422421fbb18f3a55ce0373119c4a608\\appcompat-1.1.0\\res\\values-v23\\values-v23.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,20,34,35,36,37,41,42,43,44",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,190,325,400,487,1371,2267,2386,2513,2618,2842,2957,3064,3177",
-                        "endLines": "2,3,4,5,19,33,34,35,36,40,41,42,43,47",
-                        "endColumns": "134,134,74,86,12,12,118,126,104,12,114,106,112,12",
-                        "endOffsets": "185,320,395,482,1366,2262,2381,2508,2613,2837,2952,3059,3172,3402"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\ANTi\\.gradle\\caches\\transforms-2\\files-2.1\\45c42c49f02d08887d5959a2fdc49160\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\ANTi\\.gradle\\caches\\transforms-3\\361c4c71d705b36566e5112b539f8164\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -34,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ANTi\\.gradle\\caches\\transforms-2\\files-2.1\\eadc6d846fca3c017e472313c0d48192\\material-1.1.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\ANTi\\.gradle\\caches\\transforms-3\\71ea3b1a894c580d967e590f5788138f\\transformed\\material-1.1.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,6",
                         "startColumns": "4,4",
@@ -50,6 +39,17 @@
                         "endLines": "54,58",
                         "endColumns": "10,10",
                         "endOffsets": "3817,4090"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ANTi\\.gradle\\caches\\transforms-3\\d12abb10a0133e6dad03a996bfe4d209\\transformed\\appcompat-1.1.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,20,34,35,36,37,41,42,43,44",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1371,2267,2386,2513,2618,2842,2957,3064,3177",
+                        "endLines": "2,3,4,5,19,33,34,35,36,40,41,42,43,47",
+                        "endColumns": "134,134,74,86,12,12,118,126,104,12,114,106,112,12",
+                        "endOffsets": "185,320,395,482,1366,2262,2381,2508,2613,2837,2952,3059,3172,3402"
                     }
                 }
             ]

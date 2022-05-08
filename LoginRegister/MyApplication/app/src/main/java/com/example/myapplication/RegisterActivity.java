@@ -1,5 +1,6 @@
 package com.example.myapplication;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.Patterns;
 import android.view.View;
@@ -10,6 +11,7 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.myapplication.Common.Common;
 import com.example.myapplication.entity.User;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
@@ -27,11 +29,15 @@ public class RegisterActivity extends AppCompatActivity implements View.OnClickL
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main3);
+
+        //set keyId
         yourName=findViewById(R.id.editTextTextPersonName4);
         email=findViewById(R.id.editTextTextPersonName);
         ageText=findViewById(R.id.editTextTextPersonName3);
         password=findViewById(R.id.editTextTextPersonName2);
         btnRegister=findViewById(R.id.button3);
+
+        //Ket noi FireBase
         mAuth = FirebaseAuth.getInstance();
 
         btnRegister.setOnClickListener(this);
@@ -84,13 +90,15 @@ public class RegisterActivity extends AppCompatActivity implements View.OnClickL
             return;
         }
 
+        //Tao user ben Auth
         mAuth.createUserWithEmailAndPassword(mail,pass).addOnCompleteListener(
                 new OnCompleteListener<AuthResult>() {
                     @Override
                     public void onComplete(@NonNull Task<AuthResult> task) {
                         if(task.isSuccessful()){
-                            User user= new User(name,age,mail);
-
+                            //Tao doi tuong user
+                            User user= new User(name,age,mail,pass);
+                            //Dong thoi tao user ben firebase
                             FirebaseDatabase.getInstance().getReference("Users")
                             .child(FirebaseAuth.getInstance().getCurrentUser().getUid())
                             .setValue(user).addOnCompleteListener(new OnCompleteListener<Void>() {
@@ -98,7 +106,11 @@ public class RegisterActivity extends AppCompatActivity implements View.OnClickL
                                 public void onComplete(@NonNull Task<Void> task) {
 
                                     if (task.isSuccessful()){
+                                        //Chuyen trang dong thoi truyen du lieu user
                                         Toast.makeText(RegisterActivity.this,"User has been",Toast.LENGTH_LONG).show();
+                                        Common.currentUser=user;
+                                        Intent intent=new Intent(RegisterActivity.this,MainActivity.class);
+                                        startActivity(intent);
 
                                     }else {
                                         Toast.makeText(RegisterActivity.this,"Failed has been",Toast.LENGTH_LONG).show();

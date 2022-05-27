@@ -1,6 +1,7 @@
 package com.example.myapplication.DB;
 
 import android.annotation.SuppressLint;
+import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
@@ -42,6 +43,25 @@ public List<Employee> getCart(){
     }
         return result;
 }
+    @SuppressLint("Range")
+    public Employee getCartByAll(int id){
+        SQLiteDatabase db=getReadableDatabase();
+        SQLiteQueryBuilder qb=new SQLiteQueryBuilder();
+
+        String[] sqlSelect={"employeeId","name","phone","address","age"};
+        String sqlTable="employee";
+
+        qb.setTables(sqlTable);
+        Cursor cursor = qb.query(db,sqlSelect, "employeeId" + "=?",
+                new String[] { String.valueOf(id) }, null, null, null, null);
+        if (cursor != null)
+            cursor.moveToFirst();
+
+        Employee user = new Employee(Integer.parseInt(cursor.getString(0)),
+                cursor.getString(1),cursor.getString(2),cursor.getString(3),cursor.getString(4));
+        // return contact
+        return user;
+    }
 public void addToCart(Employee order){
         SQLiteDatabase db=getReadableDatabase();
         String query=String.format("INSERT INTO employee(name,phone,address,age) VALUES('%s','%s','%s','%s');",
@@ -51,6 +71,28 @@ public void addToCart(Employee order){
                 order.getAge());
         db.execSQL(query);
 }
+    public int updateUse(Employee user) {
+        SQLiteDatabase db = this.getWritableDatabase();
+
+        ContentValues values = new ContentValues();
+        values.put("name", user.getName());
+        values.put("phone", user.getPhone());
+        values.put("address", user.getAddress());
+        values.put("age", user.getAge());
+
+
+        // updating row
+        String sqlTable="employee";
+        return db.update(sqlTable, values, "employeeId" + " = ?",
+                new String[] { String.valueOf(user.getEmployeeId()) });
+    }
+    public int deleteUser(int id) {
+        SQLiteDatabase db = this.getWritableDatabase();
+        String sqlTable="employee";
+        return db.delete(sqlTable, "employeeId" + " = ?",
+                new String[] { String.valueOf(id) });
+
+    }
     public void deleteToCart(){
         SQLiteDatabase db=getReadableDatabase();
         String query=String.format("DELETE FROM employee");

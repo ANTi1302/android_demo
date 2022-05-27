@@ -5,6 +5,7 @@ import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -13,6 +14,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.example.myapplication.FinishActivity;
 import com.example.myapplication.FormUploadActivity;
 import com.example.myapplication.Interface.ItemClickListen;
+import com.example.myapplication.Interface.ItemViewHolder;
 import com.example.myapplication.R;
 import com.example.myapplication.entity.Employee;
 
@@ -23,7 +25,10 @@ import java.util.Locale;
 
 class CartViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener{
     public TextView txtName,txtPhone,txtAdd,txtAge;
+     int index=0;
+     String a="";
     private ItemClickListen itemClickListen;
+    private ItemViewHolder itemViewHolder;
     public CartViewHolder(View itemView) {
         super(itemView);
         txtName=itemView.findViewById(R.id.txtNameView);
@@ -32,26 +37,41 @@ class CartViewHolder extends RecyclerView.ViewHolder implements View.OnClickList
         txtAge=itemView.findViewById(R.id.txtAge);
 
         itemView.setOnClickListener(this);
+
     }
 
     public void setTxtCartName(TextView txtName) {
         this.txtName = txtName;
     }
-
+    public void setItemViewHolder(ItemViewHolder itemViewHolder) {
+        this.itemViewHolder = itemViewHolder;
+    }
     @Override
     public void onClick(View view) {
        Toast.makeText(itemView.getContext(), "Da chon "+txtName.getText().toString(),Toast.LENGTH_LONG).show();
         Intent foodList=new Intent(itemView.getContext(), FormUploadActivity.class);
-        foodList.putExtra("EmployeeId",txtName.getText().toString());
+        foodList.putExtra("EmployeeName",txtName.getText().toString());
+        foodList.putExtra("EmployeePhone",txtPhone.getText().toString());
+        foodList.putExtra("EmployeeAdd",txtAdd.getText().toString());
+        foodList.putExtra("EmployeeAge",txtAge.getText().toString());
+        index = getAdapterPosition()+1;
+    a=String.valueOf(index);
+
+        foodList.putExtra("EmployeeId",a);
         itemView.getContext().startActivity(foodList);
+
+
     }
+
+
+
+
 }
 
 public class CartAdapter extends RecyclerView.Adapter<CartViewHolder>{
 
     private List<Employee> listData= new ArrayList<>();
     private Context context;
-
     public CartAdapter(List<Employee> listData, Context context) {
         this.listData = listData;
         this.context = context;
@@ -61,6 +81,7 @@ public class CartAdapter extends RecyclerView.Adapter<CartViewHolder>{
     public CartViewHolder onCreateViewHolder( ViewGroup parent, int viewType) {
         LayoutInflater inflater=LayoutInflater.from(context);
         View itemview=inflater.inflate(R.layout.item_employee,parent,false);
+
         return new CartViewHolder(itemview);
     }
 
@@ -71,10 +92,13 @@ public class CartAdapter extends RecyclerView.Adapter<CartViewHolder>{
         holder.txtAdd.setText(listData.get(position).getAddress());
         holder.txtAge.setText(listData.get(position).getAge());
 
+
     }
 
     @Override
     public int getItemCount() {
         return listData.size();
     }
+
+
 }

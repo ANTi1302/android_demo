@@ -1,6 +1,7 @@
 package com.example.myapplication.entity;
 
 public class Employee {
+    private Integer employeeId;
     private String name;
     private String phone;
     private String address;
@@ -18,7 +19,21 @@ public class Employee {
         this.age = age;
     }
 
+    public Employee(Integer employeeId, String name, String phone, String address, String age) {
+        this.employeeId = employeeId;
+        this.name = name;
+        this.phone = phone;
+        this.address = address;
+        this.age = age;
+    }
 
+    public Integer getEmployeeId() {
+        return employeeId;
+    }
+
+    public void setEmployeeId(Integer employeeId) {
+        this.employeeId = employeeId;
+    }
 
     public String getName() {
         return name;

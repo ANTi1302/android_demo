@@ -1,4 +1,4 @@
-#Fri May 27 00:22:22 ICT 2022
+#Sat May 28 00:46:01 ICT 2022
 base.0=E\:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

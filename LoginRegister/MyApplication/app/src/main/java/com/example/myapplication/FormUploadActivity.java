@@ -47,7 +47,7 @@ public class FormUploadActivity extends AppCompatActivity {
             empId=getIntent().getStringExtra("EmployeeId");
 
 
-        }if (!empId.isEmpty()&&empId!=null&&currentemp!=null){
+        }if (!empId.isEmpty()&&empId!=null){
             loadListEmpDetail(empId);
         }
 
@@ -69,9 +69,7 @@ public class FormUploadActivity extends AppCompatActivity {
 
 
                 employee.child(empId).removeValue();
-                Intent intent=new Intent(FormUploadActivity.this,FinishActivity.class);
 
-                startActivity(intent);
             }
         });
 
@@ -85,15 +83,15 @@ public class FormUploadActivity extends AppCompatActivity {
 
                 //Set Image
 //                Picasso.with(getBaseContext()).load(currentfood.getImage()).into(imgFood);
-                if (currentemp.getName().isEmpty()||currentemp.getAddress().isEmpty()||currentemp.getPhone().isEmpty()||currentemp.getAge().isEmpty()){
+                if (currentemp==null|| currentemp.getName().isEmpty()||currentemp.getAddress().isEmpty()||currentemp.getPhone().isEmpty()||currentemp.getAge().isEmpty()){
                     Intent intent=new Intent(FormUploadActivity.this,FinishActivity.class);
                     startActivity(intent);
+                }else {
+                    txtName.setText(currentemp.getName());
+                    txtAddress.setText(currentemp.getAddress());
+                    txtPhone.setText(currentemp.getPhone());
+                    txtAge.setText(currentemp.getAge());
                 }
-                txtName.setText(currentemp.getName());
-                txtAddress.setText(currentemp.getAddress());
-                txtPhone.setText(currentemp.getPhone());
-                txtAge.setText(currentemp.getAge());
-
 
             }
 

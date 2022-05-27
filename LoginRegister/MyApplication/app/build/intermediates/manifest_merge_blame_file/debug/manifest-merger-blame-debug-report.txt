@@ -90,11 +90,11 @@
 48        </activity>
 49
 50        <meta-data
-50-->[com.firebaseui:firebase-ui-database:1.2.0] C:\Users\ANTi\.gradle\caches\transforms-3\8ff7aeb534f3bd21d25053bb0e1e2ad5\transformed\jetified-firebase-ui-database-1.2.0\AndroidManifest.xml:14:9-16:69
+50-->[com.firebaseui:firebase-ui-database:1.2.0] C:\Users\ANTi\.gradle\caches\transforms-3\e85dd5fddabef697796c2ad2672b5ecd\transformed\jetified-firebase-ui-database-1.2.0\AndroidManifest.xml:14:9-16:69
 51            android:name="com.google.android.gms.version"
-51-->[com.firebaseui:firebase-ui-database:1.2.0] C:\Users\ANTi\.gradle\caches\transforms-3\8ff7aeb534f3bd21d25053bb0e1e2ad5\transformed\jetified-firebase-ui-database-1.2.0\AndroidManifest.xml:15:13-58
+51-->[com.firebaseui:firebase-ui-database:1.2.0] C:\Users\ANTi\.gradle\caches\transforms-3\e85dd5fddabef697796c2ad2672b5ecd\transformed\jetified-firebase-ui-database-1.2.0\AndroidManifest.xml:15:13-58
 52            android:value="@integer/google_play_services_version" />
-52-->[com.firebaseui:firebase-ui-database:1.2.0] C:\Users\ANTi\.gradle\caches\transforms-3\8ff7aeb534f3bd21d25053bb0e1e2ad5\transformed\jetified-firebase-ui-database-1.2.0\AndroidManifest.xml:16:13-66
+52-->[com.firebaseui:firebase-ui-database:1.2.0] C:\Users\ANTi\.gradle\caches\transforms-3\e85dd5fddabef697796c2ad2672b5ecd\transformed\jetified-firebase-ui-database-1.2.0\AndroidManifest.xml:16:13-66
 53
 54        <activity
 54-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\ANTi\.gradle\caches\transforms-3\472c42424e6fad63e3c43b29cc7a1598\transformed\jetified-firebase-auth-21.0.3\AndroidManifest.xml:27:9-44:20

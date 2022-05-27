@@ -72,12 +72,12 @@
         "source": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_delete_24.xml"
     },
     {
-        "merged": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_group.png.flat",
-        "source": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\src\\main\\res\\drawable\\group.png"
-    },
-    {
         "merged": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_baseline_delete_24.png.flat",
         "source": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_delete_24.png"
+    },
+    {
+        "merged": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_group.png.flat",
+        "source": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\src\\main\\res\\drawable\\group.png"
     },
     {
         "merged": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
@@ -92,12 +92,12 @@
         "source": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_intersect.png.flat",
-        "source": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\src\\main\\res\\drawable\\intersect.png"
-    },
-    {
         "merged": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_a.png.flat",
         "source": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\src\\main\\res\\drawable\\a.png"
+    },
+    {
+        "merged": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_intersect.png.flat",
+        "source": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\src\\main\\res\\drawable\\intersect.png"
     },
     {
         "merged": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_ellipse_1.png.flat",
@@ -108,12 +108,12 @@
         "source": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\src\\main\\res\\layout\\activity_main4.xml"
     },
     {
-        "merged": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_type_password.png.flat",
-        "source": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\src\\main\\res\\drawable\\type_password.png"
-    },
-    {
         "merged": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_type_password.png.flat",
+        "source": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\src\\main\\res\\drawable\\type_password.png"
     },
     {
         "merged": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_baseline_cloud_upload_24.png.flat",
@@ -212,12 +212,12 @@
         "source": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_delete_24.png"
     },
     {
-        "merged": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_group_6.png.flat",
-        "source": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\src\\main\\res\\drawable\\group_6.png"
-    },
-    {
         "merged": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_baseline_add_24.png.flat",
         "source": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_group_6.png.flat",
+        "source": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\src\\main\\res\\drawable\\group_6.png"
     },
     {
         "merged": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_baseline_delete_24.png.flat",
@@ -260,12 +260,12 @@
         "source": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_cloud_upload_24.png"
     },
     {
-        "merged": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_group_3.png.flat",
-        "source": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\src\\main\\res\\drawable\\group_3.png"
-    },
-    {
         "merged": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
         "source": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable_group_3.png.flat",
+        "source": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\src\\main\\res\\drawable\\group_3.png"
     },
     {
         "merged": "E:\\ANTi_study\\android_demo\\LoginRegister\\MyApplication\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_launcher_background.png.flat",

@@ -5,7 +5,7 @@ INJECTED from E:\ANTi_study\android_demo\LoginRegister\MyApplication\app\src\mai
 INJECTED from E:\ANTi_study\android_demo\LoginRegister\MyApplication\app\src\main\AndroidManifest.xml:2:1-38:12
 INJECTED from E:\ANTi_study\android_demo\LoginRegister\MyApplication\app\src\main\AndroidManifest.xml:2:1-38:12
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\ANTi\.gradle\caches\transforms-3\71ea3b1a894c580d967e590f5788138f\transformed\material-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\ANTi\.gradle\caches\transforms-3\8ff7aeb534f3bd21d25053bb0e1e2ad5\transformed\jetified-firebase-ui-database-1.2.0\AndroidManifest.xml:2:1-19:12
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\ANTi\.gradle\caches\transforms-3\e85dd5fddabef697796c2ad2672b5ecd\transformed\jetified-firebase-ui-database-1.2.0\AndroidManifest.xml:2:1-19:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\ANTi\.gradle\caches\transforms-3\d12abb10a0133e6dad03a996bfe4d209\transformed\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ANTi\.gradle\caches\transforms-3\bb2ce769817b03a6b1b92f58744236ee\transformed\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\ANTi\.gradle\caches\transforms-3\472c42424e6fad63e3c43b29cc7a1598\transformed\jetified-firebase-auth-21.0.3\AndroidManifest.xml:17:1-73:12
@@ -84,8 +84,8 @@ INJECTED from E:\ANTi_study\android_demo\LoginRegister\MyApplication\app\src\mai
 		ADDED from E:\ANTi_study\android_demo\LoginRegister\MyApplication\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
 ADDED from E:\ANTi_study\android_demo\LoginRegister\MyApplication\app\src\main\AndroidManifest.xml:5:5-67
-MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\ANTi\.gradle\caches\transforms-3\8ff7aeb534f3bd21d25053bb0e1e2ad5\transformed\jetified-firebase-ui-database-1.2.0\AndroidManifest.xml:11:5-67
-MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\ANTi\.gradle\caches\transforms-3\8ff7aeb534f3bd21d25053bb0e1e2ad5\transformed\jetified-firebase-ui-database-1.2.0\AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\ANTi\.gradle\caches\transforms-3\e85dd5fddabef697796c2ad2672b5ecd\transformed\jetified-firebase-ui-database-1.2.0\AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\ANTi\.gradle\caches\transforms-3\e85dd5fddabef697796c2ad2672b5ecd\transformed\jetified-firebase-ui-database-1.2.0\AndroidManifest.xml:11:5-67
 MERGED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\ANTi\.gradle\caches\transforms-3\472c42424e6fad63e3c43b29cc7a1598\transformed\jetified-firebase-auth-21.0.3\AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\ANTi\.gradle\caches\transforms-3\472c42424e6fad63e3c43b29cc7a1598\transformed\jetified-firebase-auth-21.0.3\AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\ANTi\.gradle\caches\transforms-3\ef01ae5d118fb560a0b53d96819a4998\transformed\jetified-firebase-database-20.0.4\AndroidManifest.xml:26:5-67
@@ -106,8 +106,8 @@ application
 ADDED from E:\ANTi_study\android_demo\LoginRegister\MyApplication\app\src\main\AndroidManifest.xml:7:5-36:19
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\ANTi\.gradle\caches\transforms-3\71ea3b1a894c580d967e590f5788138f\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\ANTi\.gradle\caches\transforms-3\71ea3b1a894c580d967e590f5788138f\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
-MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\ANTi\.gradle\caches\transforms-3\8ff7aeb534f3bd21d25053bb0e1e2ad5\transformed\jetified-firebase-ui-database-1.2.0\AndroidManifest.xml:13:5-17:19
-MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\ANTi\.gradle\caches\transforms-3\8ff7aeb534f3bd21d25053bb0e1e2ad5\transformed\jetified-firebase-ui-database-1.2.0\AndroidManifest.xml:13:5-17:19
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\ANTi\.gradle\caches\transforms-3\e85dd5fddabef697796c2ad2672b5ecd\transformed\jetified-firebase-ui-database-1.2.0\AndroidManifest.xml:13:5-17:19
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\ANTi\.gradle\caches\transforms-3\e85dd5fddabef697796c2ad2672b5ecd\transformed\jetified-firebase-ui-database-1.2.0\AndroidManifest.xml:13:5-17:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ANTi\.gradle\caches\transforms-3\bb2ce769817b03a6b1b92f58744236ee\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ANTi\.gradle\caches\transforms-3\bb2ce769817b03a6b1b92f58744236ee\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\ANTi\.gradle\caches\transforms-3\472c42424e6fad63e3c43b29cc7a1598\transformed\jetified-firebase-auth-21.0.3\AndroidManifest.xml:26:5-71:19
@@ -216,8 +216,8 @@ INJECTED from E:\ANTi_study\android_demo\LoginRegister\MyApplication\app\src\mai
 INJECTED from E:\ANTi_study\android_demo\LoginRegister\MyApplication\app\src\main\AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\ANTi\.gradle\caches\transforms-3\71ea3b1a894c580d967e590f5788138f\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\ANTi\.gradle\caches\transforms-3\71ea3b1a894c580d967e590f5788138f\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
-MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\ANTi\.gradle\caches\transforms-3\8ff7aeb534f3bd21d25053bb0e1e2ad5\transformed\jetified-firebase-ui-database-1.2.0\AndroidManifest.xml:7:5-9:41
-MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\ANTi\.gradle\caches\transforms-3\8ff7aeb534f3bd21d25053bb0e1e2ad5\transformed\jetified-firebase-ui-database-1.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\ANTi\.gradle\caches\transforms-3\e85dd5fddabef697796c2ad2672b5ecd\transformed\jetified-firebase-ui-database-1.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\ANTi\.gradle\caches\transforms-3\e85dd5fddabef697796c2ad2672b5ecd\transformed\jetified-firebase-ui-database-1.2.0\AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\ANTi\.gradle\caches\transforms-3\d12abb10a0133e6dad03a996bfe4d209\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\ANTi\.gradle\caches\transforms-3\d12abb10a0133e6dad03a996bfe4d209\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ANTi\.gradle\caches\transforms-3\bb2ce769817b03a6b1b92f58744236ee\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
@@ -347,13 +347,13 @@ INJECTED from E:\ANTi_study\android_demo\LoginRegister\MyApplication\app\src\mai
 		ADDED from E:\ANTi_study\android_demo\LoginRegister\MyApplication\app\src\main\AndroidManifest.xml
 		INJECTED from E:\ANTi_study\android_demo\LoginRegister\MyApplication\app\src\main\AndroidManifest.xml
 meta-data#com.google.android.gms.version
-ADDED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\ANTi\.gradle\caches\transforms-3\8ff7aeb534f3bd21d25053bb0e1e2ad5\transformed\jetified-firebase-ui-database-1.2.0\AndroidManifest.xml:14:9-16:69
+ADDED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\ANTi\.gradle\caches\transforms-3\e85dd5fddabef697796c2ad2672b5ecd\transformed\jetified-firebase-ui-database-1.2.0\AndroidManifest.xml:14:9-16:69
 MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\ANTi\.gradle\caches\transforms-3\4d6f52dff7cd71b90893bcce46d0bd27\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
 MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\ANTi\.gradle\caches\transforms-3\4d6f52dff7cd71b90893bcce46d0bd27\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
 	android:value
-		ADDED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\ANTi\.gradle\caches\transforms-3\8ff7aeb534f3bd21d25053bb0e1e2ad5\transformed\jetified-firebase-ui-database-1.2.0\AndroidManifest.xml:16:13-66
+		ADDED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\ANTi\.gradle\caches\transforms-3\e85dd5fddabef697796c2ad2672b5ecd\transformed\jetified-firebase-ui-database-1.2.0\AndroidManifest.xml:16:13-66
 	android:name
-		ADDED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\ANTi\.gradle\caches\transforms-3\8ff7aeb534f3bd21d25053bb0e1e2ad5\transformed\jetified-firebase-ui-database-1.2.0\AndroidManifest.xml:15:13-58
+		ADDED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\ANTi\.gradle\caches\transforms-3\e85dd5fddabef697796c2ad2672b5ecd\transformed\jetified-firebase-ui-database-1.2.0\AndroidManifest.xml:15:13-58
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-auth:21.0.3] C:\Users\ANTi\.gradle\caches\transforms-3\472c42424e6fad63e3c43b29cc7a1598\transformed\jetified-firebase-auth-21.0.3\AndroidManifest.xml:24:5-79
 MERGED from [com.google.firebase:firebase-database:20.0.4] C:\Users\ANTi\.gradle\caches\transforms-3\ef01ae5d118fb560a0b53d96819a4998\transformed\jetified-firebase-database-20.0.4\AndroidManifest.xml:25:5-79

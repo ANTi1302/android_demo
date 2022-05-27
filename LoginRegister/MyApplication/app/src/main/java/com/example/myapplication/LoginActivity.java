@@ -82,7 +82,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
                    FirebaseDatabase database=FirebaseDatabase.getInstance();
                     DatabaseReference table_user=database.getReference("Users");
                     if (Common.currentUser==null){
-                        userLogin= new User(mAuth.getCurrentUser().getEmail(),mAuth.getCurrentUser().getPhoneNumber());
+                        userLogin= new User(email.toString(),mAuth.getCurrentUser().getPhoneNumber());
                         Common.currentUser=userLogin;
                     }
 

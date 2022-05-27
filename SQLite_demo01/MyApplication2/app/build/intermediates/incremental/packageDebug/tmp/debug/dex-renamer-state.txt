@@ -1,0 +1,4 @@
+#Fri May 27 14:07:24 ICT 2022
+base.0=E\:\\ANTi_study\\android_demo\\SQLite_demo01\\MyApplication2\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

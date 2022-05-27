@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable hinh1
+drawable ic_icon
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_listview
+drawable mc1
+drawable mc2
+drawable mc3
+drawable mc4
+drawable thum1
+drawable thum2
+drawable thum3
+drawable thum4
+id layoutitems
+id rv_items
+id tv_name
+layout activity_main
+layout items_ms
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Demo

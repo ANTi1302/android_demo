@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\drawable_hinh3.png.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\drawable\\hinh3.png"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\drawable_ava3.png.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\drawable\\ava3.png"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\drawable_cho13.png.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\drawable\\cho13.png"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\drawable_hinh5.png.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\drawable\\hinh5.png"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\drawable_cho02.png.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\drawable\\cho02.png"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\drawable_hinh1.png.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\drawable\\hinh1.png"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\drawable_cho7.png.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\drawable\\cho7.png"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\drawable_cho15.png.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\drawable\\cho15.png"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\layout_item_chats.xml.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\layout\\item_chats.xml"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\layout_item_searchs.xml.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\layout\\item_searchs.xml"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\drawable_cho5.png.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\drawable\\cho5.png"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\drawable_cho10.png.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\drawable\\cho10.png"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\drawable_cho8.png.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\drawable\\cho8.png"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\drawable_ava1.png.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\drawable\\ava1.png"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\drawable_ellipse.png.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\drawable\\ellipse.png"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\layout_chat.xml.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\layout\\chat.xml"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\drawable_cho12.png.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\drawable\\cho12.png"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\drawable_cho14.png.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\drawable\\cho14.png"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\drawable_hinh2.png.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\drawable\\hinh2.png"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\drawable_hinh4.png.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\drawable\\hinh4.png"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\drawable_cho01.png.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\drawable\\cho01.png"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\drawable_ava4.png.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\drawable\\ava4.png"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\drawable_ava2.png.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\drawable\\ava2.png"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\drawable_hinh6.png.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\drawable\\hinh6.png"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\drawable_cho6.png.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\drawable\\cho6.png"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\drawable_my_button_bg.xml.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\drawable\\my_button_bg.xml"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\layout_search.xml.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\layout\\search.xml"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\layout_item.xml.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\drawable_cho03.png.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\drawable\\cho03.png"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\drawable_cho4.png.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\drawable\\cho4.png"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\drawable_cho11.png.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\drawable\\cho11.png"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\drawable_cho9.png.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\drawable\\cho9.png"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\ANTi_study\\Android\\Profile\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "E:\\ANTi_study\\Android\\Profile\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    }
+]

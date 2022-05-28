@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+color Yellow
+color black
+color duskYellow
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable carbusbtops
+drawable daucam
+drawable dauchuyendoi
+drawable dauchuyendoipsps
+drawable daynguon
+drawable giacchuyen
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id danhGia
+id frame01
+id giaTien
+id idListView
+id logo
+id ratingBar
+id tensanpham
+layout activity_main
+layout custom_list_view_activity
+layout layout_items
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style RatingBar
+style Theme.MyApplication

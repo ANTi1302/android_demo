@@ -1,0 +1,10 @@
+com/example/myapplication/Adapter.java
+ com.example.myapplication.Adapter
+com/example/myapplication/BuildConfig.java
+ com.example.myapplication.BuildConfig
+com/example/myapplication/User.java
+ com.example.myapplication.User
+com/example/myapplication/DatabaseHandler.java
+ com.example.myapplication.DatabaseHandler
+com/example/myapplication/MainActivity.java
+ com.example.myapplication.MainActivity
